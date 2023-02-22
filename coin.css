@@ -1,0 +1,73 @@
+body{
+    background-image: url(aha.jfif);
+    font-family: Wildwest;
+    font-weight: bold;
+    color: #ffc83d;
+}
+h1, p{
+    font-weight: bolder;
+}
+#kis{
+    text-align: center;
+    margin-top: 90px;
+    margin-left: 425px;
+    width: 600px;
+    height: 600px;
+    border: solid 5px #ffc83d;
+    background-image: url(IMG_5204\ \(3\)\ \(1\).jpg);
+    overflow: hidden;
+}
+#cim{
+    font-weight: bolder;
+    margin-top: 25px;
+}
+#buttonbox{
+    font-size: 20px;
+    font-weight: bolder;
+    color:black;
+}
+img{
+    position: absolute;
+    margin-top: 65px;
+    width: 450px;
+    height: auto;
+}
+#fej{
+    margin-right: 20px;
+    width: 200px;
+    height: auto;
+}
+#iras{
+    width: 200px;
+    height: auto;
+}
+#eredmenyek{
+    margin-top: 30px;
+    display: flex;
+    color: white;
+}
+footer{
+    margin-top: 20px;
+    text-align: center;
+    color: #ffc83d;
+}
+a{
+    color: white;
+    text-decoration: none; 
+}
+#valasz{
+    font-size: 20px;
+    letter-spacing: 3px;
+    margin-bottom: 390px;
+    margin-top: 25px;
+}
+#dobas{
+    margin-left: 35%;
+    margin-right: 50px;
+}
+#gyozelem{
+    margin-right: 50px;
+}
+
+
+
